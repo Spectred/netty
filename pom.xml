@@ -639,6 +639,7 @@
     <module>transport-blockhound-tests</module>
     <module>microbench</module>
     <module>bom</module>
+      <module>demo</module>
   </modules>
 
   <dependencyManagement>
